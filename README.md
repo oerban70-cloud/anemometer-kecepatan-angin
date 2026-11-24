@@ -9,7 +9,7 @@ tercatat. Begitu angin mencapai 40 km/jam, buzzer berbunyi dan LED merah
 menyala sebagai peringatan.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/GoMgyFTMeA8
 
 ## Komponen
 
